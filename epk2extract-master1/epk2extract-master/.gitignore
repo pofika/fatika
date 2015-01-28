@@ -1,0 +1,5 @@
+.svn
+.cproject
+.project
+CMakeCache.txt
+CMakeFiles
